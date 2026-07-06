@@ -1,18 +1,14 @@
-# Virtual Environment
-.venv/
-
-# Python cache
+# Python
 __pycache__/
 *.py[cod]
+
+# Virtual environment
+.venv/
 
 # PyCharm
 .idea/
 
-# Build files
+# Build
 build/
 dist/
 *.egg-info/
-
-# OS files
-.DS_Store
-Thumbs.db
